@@ -3,7 +3,7 @@ This Java program represents a simple text-based coffee machine simulation. Here
 
 1. **Package and Imports:**
    - The code is organized into a package named `CoffeeMachine`.
-   - It imports a custom `Coffee` class from the `CoffeeTypes` package, which presumably contains different types of coffee with their properties.
+   - It imports a custom `Coffee` class from the `CoffeeTypes` package, which contains different types of coffee with their properties.
 
 2. **Class: CoffeeMachine:**
    - Attributes:
